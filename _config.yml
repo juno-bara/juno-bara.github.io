@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: juno-bara
+description: A simple, concise, and powerful Jekyll theme for blogs
 url: https://vszhub.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /20190330-IMG_5851.jpeg
 
 # Gems
 plugins:
@@ -36,7 +36,7 @@ social:
   name: Songzi Vong
   links:
     - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/juno-bara
 google_site_verification: xxxxx
 lang: en
 
